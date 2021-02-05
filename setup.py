@@ -11,7 +11,7 @@ setuptools.setup(
     description="Python API Client for NGINX Plus API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/outcast/",
+    url="https://github.com/nginx-architects/python-nginxPlusAPI",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
