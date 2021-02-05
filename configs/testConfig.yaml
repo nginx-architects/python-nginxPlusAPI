@@ -1,0 +1,2 @@
+poolSize: 10
+host: "http://localhost:8000"

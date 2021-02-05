@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/bin/python3",
+  "python.analysis.extraPaths": [
+    "./src"
+  ],
+  "python.autoComplete.extraPaths": [
+    "./src"
+  ]
+}
